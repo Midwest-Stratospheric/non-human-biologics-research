@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these records, please cite them as below."
+title: "Non-Human Biologics Data (xBioNexus, Aerostratospheric)"
+type: dataset
+authors:
+  - given-names: Jeremy David
+    family-names: Higgs
+    alias: JH
+    orcid: "https://orcid.org/0009-0008-0022-6241"
+    affiliation: Aerostratospheric
+repository-code: "https://github.com/Midwest-Stratospheric/non-human-biologics-data"
+url: "https://midwestsds.com/non-human-biologics-research.html"
+date-released: 2026-10-31
+keywords:
+  - non-human biologics
+  - Hypsibius exemplaris
+  - high-altitude balloon
+  - xBioNexus
