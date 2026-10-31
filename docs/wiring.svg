@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" font-family="Helvetica,Arial,sans-serif" font-size="14">
+<rect width="900" height="520" fill="#fff"/>
+<text x="450" y="30" text-anchor="middle" font-size="20" font-weight="bold">Aerostratospheric NHB tank temp logger - wiring</text>
+<rect x="340" y="70" width="220" height="380" rx="10" fill="#1f3b57"/>
+<text x="450" y="100" text-anchor="middle" fill="#fff" font-weight="bold">ESP32 DevKit (WROOM-32)</text>
+<g fill="#fff"><text x="350" y="160">3V3</text><text x="350" y="220">GND</text><text x="350" y="280">GPIO4</text>
+<text x="510" y="280">GPIO15</text><text x="520" y="160">GPIO2</text><text x="350" y="420">USB 5V in</text></g>
+<circle cx="545" cy="185" r="8" fill="#3af"/><text x="470" y="190" fill="#9cf" font-size="12">onboard LED</text>
+<!-- DS18B20 -->
+<rect x="40" y="200" width="200" height="150" rx="8" fill="#eee" stroke="#333"/>
+<text x="140" y="225" text-anchor="middle" font-weight="bold">DS18B20 probe</text>
+<text x="140" y="243" text-anchor="middle" font-size="12">(in tank water)</text>
+<text x="55" y="275" fill="#c00">Red = VDD</text><text x="55" y="300">Black = GND</text><text x="55" y="325" fill="#b80">Yellow = DATA</text>
+<path d="M240 270 H300 V155 H345" stroke="#c00" stroke-width="3" fill="none"/>
+<path d="M240 295 H290 V215 H345" stroke="#000" stroke-width="3" fill="none"/>
+<path d="M240 320 H320 V275 H345" stroke="#b80" stroke-width="3" fill="none"/>
+<rect x="296" y="200" width="14" height="40" fill="#d9b36c" stroke="#333" transform="translate(14,0)"/>
+<path d="M317 200 V160 M317 240 V275" stroke="#555" stroke-width="2"/>
+<text x="250" y="190" font-size="12">4.7 kΩ pull-up</text><text x="250" y="204" font-size="12">DATA→3V3</text>
+<!-- DHT22 -->
+<rect x="660" y="200" width="200" height="150" rx="8" fill="#eee" stroke="#333"/>
+<text x="760" y="225" text-anchor="middle" font-weight="bold">DHT22 module</text>
+<text x="760" y="243" text-anchor="middle" font-size="12">(room air, out of water)</text>
+<text x="675" y="275" fill="#c00">+ / VCC</text><text x="675" y="300" fill="#080">OUT / DATA</text><text x="675" y="325">- / GND</text>
+<path d="M660 270 H620 V140 H330 V155" stroke="#c00" stroke-width="3" fill="none"/>
+<path d="M660 295 H600 V275 H560" stroke="#080" stroke-width="3" fill="none"/>
+<path d="M660 320 H630 V470 H330 V215 H345" stroke="#000" stroke-width="3" fill="none"/>
+<text x="450" y="500" text-anchor="middle" font-size="12">Both sensors on 3.3 V. HiLetgo DHT22 module already has its pull-up. Keep the ESP32 and DHT22 out of splash range.</text>
+</svg>
