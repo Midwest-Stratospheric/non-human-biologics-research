@@ -7,6 +7,12 @@ Open research records from **xBioNexus**, the non-human biologics research progr
 
 This repository holds ground-based control data from Aerostratospheric for its non-human biologics research.
 
+## Operation Canis Major
+
+<img src="https://www.midwestsds.com/images/operation-canis-major-patch.png" alt="Operation Canis Major patch" width="120" align="right">
+
+This project is part of [Operation Canis Major](https://www.midwestsds.com/operation-canis-major.html), often called Project Canis: Aerostratospheric's mission objective to provide open stratospheric and atmospheric research and data, unrestricted, to the public. Learn more: https://www.midwestsds.com/operation-canis-major.html
+
 ## Status
 
 Ground-based control work with our non-human biologics has begun. No non-human biologics flights have taken place, and no results or findings are claimed.
