@@ -35,6 +35,7 @@ Culture/lot 31585554 (*Hypsibius exemplaris* Z151), received Oct 28, 2026; group
 
 ```
 records/receipt/   Culture Receipt & Inventory Record AERO-XBN-CRI-001 Rev. A (.md + .csv)
+records/photos/    labeled AERO-554 groups photo (A home tank, B1/B2 ground control dishes, C1/C2 flight dishes; photo credit Maya Torres, xBioNexus)
 groups/            one folder per group: README + observations.csv
 docs/research/     blank forms and study documents (AERO-XBN-*)
 docs/              tank logger setup notes and wiring
