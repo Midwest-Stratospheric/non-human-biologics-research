@@ -4,6 +4,7 @@
 - Role: ground control paired with C2. Same handling and schedule as C2; does not fly.
 - Set up 2026-10-30 from shipment (culture/lot 31585554), status first arrival.
 - Set-up record: [AERO-XBN-CRI-001 Rev. A](../../records/receipt/AERO-XBN-CRI-001-revA.md)
+- Nov 6, 2026 microscope observation record: [WLS-005-2026-11-06.md](../../records/2026-11-06/WLS-005-2026-11-06.md)
 
 Observations go in `observations.csv`, one row per check (Central time). No entries yet.
 

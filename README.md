@@ -15,7 +15,7 @@ This project is part of [Operation Canis Major](https://www.midwestsds.com/opera
 
 ## Status
 
-Ground-based control work with our non-human biologics has begun. No non-human biologics flights have taken place, and no results or findings are claimed.
+Non-human biologics research is underway: microscope data is being recorded for AERO-554-A (home habitat, culture ID/lot 31585554). Stratosphere flights for dishes AERO-554-C1 and AERO-554-C2 are scheduled (paired with ground controls B1 and B2). No flight is claimed. No results or findings are claimed.
 
 Future research is planned. No results or outcomes are guaranteed.
 
